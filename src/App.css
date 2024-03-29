@@ -1,0 +1,19 @@
+header {
+  height: 70px;
+  border: 2px solid black;
+}
+.sec-header img {
+  height: 70px;
+  padding-left: 15px;
+}
+
+main {
+  margin-top: 5px;
+  height: 600px;
+  border: 2px solid red;
+}
+
+main h2 {
+  text-align: center;
+  line-height: 100%;
+}
